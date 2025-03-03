@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Image with Explanation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #000;
+        }
+        p {
+            max-width: 600px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Code Explanation</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT690BFW4D2KCL3ESktELChTqfzElWUFQeqOw&s
+    " alt="Example Code">
+    <p>This image displays an HTML code snippet. The code includes a simple structure with a heading and a paragraph. It demonstrates how to use HTML tags to create a well-formatted web page.</p>
+</body>
+</html>
+
